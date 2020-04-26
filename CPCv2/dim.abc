@@ -1,0 +1,4 @@
+%N: This is version 1, for ABC software that doesn't understand diminuendo/crescendo notation.
+%N: This is version 2, for ABC software that understands diminuendo/crescendo notation.
+U: Q=!diminuendo(!
+U: q=!diminuendo)!

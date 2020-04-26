@@ -1,0 +1,45 @@
+X: 20000
+T: the CALEDONIAN POCKET COMPANION (Volume 2)
+C: James Oswald .ed
+O: ca.1780
+B: James Oswald "The Caledonian Pocket Companion" Vol.2 (ca. 1780)
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+K:
+%%center The
+%%center CALEDONIAN
+%%center POCKET COMPANION
+%%center Being a Collection
+%%center of the most favourite
+%%center SCOTCH TUNES
+%%center for the
+%%center GERMAN FLUTE
+%%center by
+%%center James Oswald
+%%center VOL 2
+%%center ------------
+%%center LONDON
+%%center Printed for R. Bremner
+%%center opposite Somerset House
+%%center Strand
+
+% sep 1 1 500
+
+%%begintext align
+%% Note that the tune numbers are of the form VPPPN, where
+%% V is the volume number (1 or 2),
+%% PPP is the 3-digit page number, and
+%% N is the tune count on the page.
+%% Tunes that cross a page boundary are considered part of the first page's last tune,
+%% and aren't counted on the second page (or treated as "tune 0" if you prefer).
+%%endtext
+%%text: Handwritten on the inside of the cover:
+%%begintext
+%% This Vol. Contains Parts 7, 8, 9, 10, 11, 12.
+%% of the Caledonian Pocket Companion. ________
+%% Vol. I. [Illegible] Contains the 1st Six parts.
+%%endtext
+
+%%vskip 50	% fill up title page
+
+%%slurgraces 0
+%%graceslurs 0

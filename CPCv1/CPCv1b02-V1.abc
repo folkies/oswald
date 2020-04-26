@@ -1,0 +1,1318 @@
+
+X: 12000
+T: The CALEDONIAN POCKET COMPANION (Book 2)
+C: James Oswald .ed
+O: ca.1780
+B: James Oswald "The Caledonian Pocket Companion" Vol.1 (ca.1780)
+S: https://ia800501.us.archive.org/18/items/caledonianpocket01rugg/caledonianpocket01rugg_bw.pdf
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+K:
+%%center The
+%%center CALEDONIAN
+%%center POCKET COMPANION
+%%center In Six Volumes,containing
+%%center all the
+%%center Favourite Scotch Tunes with their
+%%center Variations for the German Flute
+%%center ~ by ~
+%%center James Oswald
+%%center Price bound s10.d6. Book 2d
+%%center ------------
+%%center London Printed for the Author & sold at his Music Shop
+%%center in St Martin's Church Yard, of whom may be had just published
+%%center (list of other publications)
+
+% sep 1 1 500
+
+%%begintext align
+%% Note that the tune numbers are of the form VBPPN, where
+%% V is the volume number (1 or 2),
+%% B is the book(let) number (1-6)
+%% PP is the 2-digit page number, and
+%% N is the tune count on the page.
+%% Tunes that cross a page boundary are considered part of the first page's last tune,
+%% and aren't counted on the second page (or treated as "tune 0" if you prefer).
+%%endtext
+%%text: Handwritten at the top of the title page: A. Robertson.
+
+%%vskip 50	% fill up title page
+
+%%slurgraces 0
+%%graceslurs 0
+
+
+X: 12031
+T: Dumbarton's Drums beat Bonny
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.1 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G	% with Em endings
+"_Slow"G>A |\
+B3d B>dA>B | G2 (d>e) d2 (Tc>B) | (AGA)B (cB)(TA>G) | E2(e>f) e2(d>e) | (gfg)a baTg>e | dBde {de}g2G2 |
+AB g(f/e/) dB (A>G) | E2(e>f) e2 :: (d>e) | g3a (g>a)(b>a) | g2b>c' b2(ag) | (ag)ab c'b(Ta>g) | e2(ab) a2(ge) |
+(de)(ga) (b>g)(a>e) | gdeg TB2A>G | b>a ge (d<B) (TA>F) | E2(e>f) e2 :: G>A | B2 g4 TB>A | G2 {Bc}d4 (Tc>B) |
+A2 a4 (TG>F) | E2(e>f) e2(G>E) | (DE)(GA) TB2(A>G) | g>a (b/g/a/b/) (d<B) (TA>G) | A(.g.f.e) d(c/B/) (c/B/)(A/G/) | E2e>f e2 :: G>A |
+B2g>a g2TB>A | G2(g>a) g2(eg) | (agab) abag | (e>d) (e/d/e/)g/ a2(Tg>e) | gGga (b/a/g/b/) (a/g/e/a/) | (gf)(ed) TB2A>G |
+b(a/b/) (a/g/f/e/) (d>B) (TA>G) | E2(e>f) e2 :: G>A | B2 (3(ged) (B>e) (d/B/A/B/) | Gg2(f/e/) {e}d3(c/B/) |{B}A3B (G>A)(F>G) | E2e>f e2d>e |
+g2 (3(bag) F2 (3(agf) | eged B2(TA>G) | (ga/b/) (ef/g/) (d<B) (TA>G) | E2(e>f) e2 :: (d>e) | g2 (3(bag) G2 (3(bag) | d2(b>c') b2(Ta>g) |
+a2(3(d'c'b) (3c'ba (3bag | (ede)g a2(Tg>e) | gGgb F2(3(agf) | Eged B2TA>G | (b>a) ge (d<B) (TA>G) | E2(e>f) e2 :|
+
+
+X: 12021
+T: Lovely Nancy by Mr Oswald
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.2-3
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/16
+K: G
+"_Slow"TB3A |\
+G4 G4 (G3A/B/) | {B}A4 A4 (A3B/c/) | {c}B4 (ge3) (dB3) | {B2}A8 (TB3A) |\
+G4 G4 (dB3) | {B}A4 A4 (ge3) | (d3e) (dB3) (A3B) | G8 :|
+|: B3c |\
+d4 d4 ge3 | {e2}d8 B3c | d4 dB3 g3B | {B4}A8 TB3A |\
+{A}G4 G4 (dB3) | {B}A4 A4 (c3d/e/) | d3e (dB3) A3B | G8 :| |]
+%
+|: B3A |\
+(3G2B2d2 g4 (3G2B2d2 | (3A2c2e2 a4 (3A2c2e2 | (3(d2g2b2) (3(a2g2f2) (3e2g2B2 | {B2}A8 (TB3A) |\
+(3G2B2d2 g4 (3d2g2b2 | (3a2g2f2 g4 (3e2c2e2 | (3d2g2e2 (3d2B2G2 (3c2A2F2 | G8 :|
+|: (B3c) |\
+d4 (3d2e2f2 (3g2a2b2 | (3d2e2c2 B4 c4 | (3d2b2a2 (3g2f2e2 (3d2g2B2 | {B2}A8 (B3c) |\
+d4 (3(g2a2b2) (3(c'2b2a2) | (3(b2a2g2) e4 g4 | (3d2B2G2 B4 cA3 | G8 :|
+|: (TB3A) |\
+G4 (3(G2A2B2) (3(d2B2G2) | A4 (3(A2B2c2) (3(B2d2g2) | Ted3Tdc3TcB3 | {B2}A8 (B3A) |\
+G4 (3(G2A2B2) (3(d2B2G2) | A4 (3(A2B2c2) (3(B2d2g2) | (3(e2c2A2) (3(d2B2G2) (3(c2A2F2) | G8 :|
+|: B3c |\
+d4 (3(d2e2f2) (3(g2f2e2) | d4 (3(d2B2c2) (3(d2B2c2) | (3(d2e2f2) (3(g2e2c2) (3(d2B2G2) | {B2}A8 (TB3A) |\
+G4 (3(G2A2B2) (3(d2B2G2) | A4 (3(A2B2c2) (3(B2g2e2) | (d3e) (dB3) (TA3B) | G8 :|
+|: TB3A |\
+G2B2d2g2 G2b2 | A2c2e2a2 A2c'2 | b2g2a2e2g2B2 | {B2}A8 B3A |\
+G2B2d2g2 G2b2 | A2c2e2a2 A2c'2 | b2g2 B4 (cA3) | G8 :|
+|: (B2c2) |\
+d2g2d2a2d2b2 | d2c'2d2d'2d2c'2 | (b2a2)(g2d2)(c2B2) | {B2}A8 (B2A2) |\
+G2d2G2e2A2f2 | B2g2c2a2d2g2 | (e2c2) B4 (cA3) | G8 :|
+|: (TB3A) |\
+G2G2- GBdg bgdB | A2A2- Acfa c'afc | (Bd)g2 (ec)g2 (dB)g2 | {B2}TA8 (TB3A) |\
+G2G2- GBdg bgdB |
+A2A2- Acfa c'afc | (Bg)e2 (dB)G2 cAF2 | G8 :: (B3c) |\
+d2d2- defg afd'2 | d2d2 defg (af)d'2 |
+(b2g2)(a2e2)(g2B2) | {B2}A8 (B3c) |\
+d2g2 dgb2 d2c'2 | d2d'2 "_Part 2d"(.c'.b.a.g .f.e.d.c) | (Bd)g2 B4 (cA3) | G8 :|
+
+% Continuation of page 2.
+
+%%sep 1 1 500
+%%sep 1 1 500
+%%begintext align
+%% The following 10 Airs are scene Tunes
+%% for the Tragedy of MACBETH.
+%% all composed by Mr. Oswald except ye first.
+%%endtext
+% This page is blank in the caledonianpocket00rugg.pdf image of the book.
+
+
+X: 12041
+T: Lady McDuff's Lament and Scoon House
+C: James Oswald
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.4 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: There are no initial-repeat signs to match the 1st/2nd endings.
+N: The 2nd strain has just '||' between the endings, with no ':'.
+M: 3/4
+L: 1/8
+K: D
+|: "_Slow"\
+A3 (G/F/) E>A | F2 D2 A2 | d3 c (B/c/)d | {d2}Tc4 A2 |\
+d3 B (TA>F) | E3 F (G/A/)B | A3 (G/F/) (TE>D) |[1 D3 EFG :|[2 D3 DEF ||
+G3 F G>A | B3 =c B2 | e3 f (e/d/c/d/) | {d}Tc3 B A2 |\
+d3 c (d/e/)f | e3 a f>b | (^ga) Ta3 ^g | a3 f (ga) |
+b3 a (b/c'/)d' | {d'}Tc'3 b a>g | "_Pia."(f>e)(d>c) B2 | (g>f)(e>d) (c/d/)e |\
+"_For."d3 e (dA) | B3 e c2 | (d/e/)f Td3 c |[1 d3 DEF :|[2 d6 |]
+
+
+X: 12042
+T: Lady Macbeth's Dream
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.4 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: There are no initial-repeat signs to match the 1st/2nd endings.
+N: The 2nd strain has just '||' between the endings, with no ':'.
+M: 6/8
+L: 1/8
+K: D
+|: "_Slow"\
+f>ed a>gf | f>ge d3 | f>ga b2a | a>gf {f}e3 ::\
+(e2f) (g2f) | a>gf e2A |
+(d2e) (f2g) | Tf>ed a3- |\
+a6- | a6 | f>ga b2d | f>ge d3- |\
+d6- | d6 | "_p.o"F>GA B2D | F>GE D3 :|
+
+
+X: 12051
+T: The Banks of Tay
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.5 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"G>E |\
+(D2 E2) G2 | G3 A (G/A/)B | A2 (TG>A) (TA>G) | E4 (G>E) |\
+(D2 E2) G2 | {E2}D4 E2 | G3 A (Bc) | {Bc}d4 c2 |\
+(B2 A2) B2 | D3 E G>A | B2 (cB)(AG) |
+E4 (d/e/)f |\
+g3 e (d/e/)g | (ed)(cB)(AG) | (DE) G2 (G>A) | G4 :: (B>c) |\
+d4 (e/f/)g | {e}d3 B (A>B) | G3 A (TA>G) | E4 (DE) |\
+G4 TB>A | G4 (g>f) |
+e2 (d3/c//B//) A>d | B3 A (B/A/G) |\
+c3 g (e/d/)B | A2 B2 (d/e/)g | (ed)(cB)(AG) | E4 (d/e/)f |\
+g3 e (d/e/)g | (ed)(cB)(AG) | (DE) G2 (TG>A) | G4 :|
+
+
+X: 12052
+T: Strily Vale
+T: Strily Vaile
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.5 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Bar 15 has "Part 2d" below the 1st 2 notes.
+M: C
+L: 1/8
+K: A
+"_Brisk"e2 |\
+c2 (B<A) A2 (B<c) | e2 (c<e) f2 (g<a) | {f}e3 c (dc)(BA) | F2 (Bc) B2 (ed) |\
+c2 (B<A) A2 (B<c) | e2 (c<e) f2 (g<a) | {f}e3 c (dc)(BA) | F2 (AB) A2 :|
+|: (cd) |\
+e3 f (e<c)(B<c) | (ec)(Bc) e3 c | B2 ce (ag)(fe) | c2 (fg) Tf3 e |\
+a3 g f2 (e<c) | B2 (ce) =g2 (f/g/)a | {f}e3 c (dc)(BA) | F2 (TAB) A2 :|
+
+
+X: 12061
+T: Banquo's Ghost
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.6 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+|: "^Slow"\
+d2 D>E{E}F2 A2 | d2 {e}f>a {a}b3 a | (gf)(ed) {d}Tc3 B | (c>d)(e>f) e4 |\
+d2 D>E {E}F2 A2 | d2 {e}f>a {a}b3 a | (gf)(ed) B2 d>A | (AB)(de) d4 :|
+|:\
+c2 {e}d(c/B/) A2 a2 | (gf)(ed) Tc2 d>e | f2 B2 (^AF)(Bc) | {d}Tc3B B4 |\
+d2 D>E {E}F2 (fd) | B2 (ec) A2 (af) | g3 b (af)(Te>d) | (AB) (d>e) d4 :|
+
+
+X: 12062
+T: Hamilton House
+C: James Oswald
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.6 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+|:\
+d2 (b<d) TB2 (AG) | e2 (a<e) {g}f2 {e}d2 | e2 g<e (f<d)(g<d) | (cB)(AG) {G2}A4 |\
+A2 (dc) {c}B2 (AG) | B2 (ed) T^c2 (BA) |
+(d<f)(e<g) (f<^c)(d<g) | f2 Te2 d4 ::\
+d2 a<g {g}f2 {e}d2 | (dfa)=c {c}TB2 (AG) | (BG)(dB) (ed)(gd) |
+(cB)(AG) A4 |\
+(B<G) (d<B) {cd}e3 d | e2 ag {g}f2 ed | (e<g)(f<a) (g<d)(e<c) | B2 TA2 G4 :|
+
+
+X: 12063
+T: The Bres of Birnam
+T: The Breas of Birnam
+C: James Oswald
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.6 #3
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+|: "_Slow"\
+B3c d2(ef) | g2(fg) Te2d2 | (B>g)(g>f) (f>e()e>d) | (ed)(cB) {B2}A4 |\
+d2(ef) g3f | e2(fg) {g}f3g | a6 (gf) |
+Te3d d4 ::\
+A2d2 {d}^c3f | {f}e3g (f>e)d2 | (B>g)(g>f) (f>e)(e>d) | (ed)(cB) {B2}A4 |\
+(B>c)(d>B) G2zG | c>de>c A2zA |
+d>ef>d B2zB | (e>f)(g>g) Tg2f2 |\
+A2(d>c) (B>A)G2 | d2(g>f) e2(Td>c) | B2(g>f) e2(Td>c) | {B}TA3G G4 :|
+
+
+X: 12071
+T: The Bres of Ewes
+T: The Breas of Ewes
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.7 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+"_Slow"d>e |\
+(f>e)(d>B) (A>F) | G4e2 | F2(Eg)(fe) | d4(c>d) |\
+e3 EFA | (d2c2)(B/c/e) | (fe)(dc)(BA) | F4(Tc>B) |\
+A2a2(T^g>f) | e2(dc)(BA) |
+F2(Ed)(cB) | {B}A4 :: A2 |\
+(cde)c(TB>A) | (g2f2)B2 | Fe(dc)(B^A) | B4(f>e) |\
+d4(E/F/G) | F2E2D2 | B2(Aa)(gf) | {f}e4(d>e) |\
+(f>e)(d>B) (A>F) |
+G4A4 | B2(gf)(ed) | Tc2(Bc)A2 |\
+d4(e/f/)g | (f2e2)d2 | (Bg)(fe)(dc) | {c2}d4D2 |\
+A3afd | (B2c2)d2 | (DB)(AG)(FE) | D4 :|
+
+
+X: 12072
+T: Scoon House
+C: James Oswald
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.7 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Bar 15 has "Bart 2d" below the (ed) notes.
+M: C
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"A |\
+d2ef (ed)(dA) | Bd (A>F) E3F |\
+(GA)(Bc) {de}f3e | (d<B) (TA>F) D3 :: E |\
+(F>D)(A>F) d3f |
+(ed)(cB) {B}T^A3F |\
+G>F (E3/F//G//) Ffed | Tc3B B2z(A/G/) |\
+(FA)(Ad) {de}f3e | (d<B) (A>F) {F}E3A |
+d4 B4 | (GB) eg {d}Tc2(BA) |\
+d2 (e3/f//g//) (fe)(dB) | (A<F) (E>D) {de}f4- |\
+fe(ed) d3(c/B/) | A<F TE>D D3 :|
+
+
+X: 12081
+T: Eske Side
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.8 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"A2 |\
+d4(d/e/)f | {f}e2(dc)(BA) | (B2c2)d2 | {F2}TE4D2 |\
+(FG)A2B2 | A4B2 | d3efg | {f2}e4 (d>e) |\
+(f>g)(f>e)(d>c) | (B2c2)d2 |
+A2(BA)(GF) | {F2}TE4D2 |\
+D2F2A2 | (=c2B2)d2 | A2(a<f) (e>f) | d4 :: (fg) |\
+a4(g/a/)b | a2(gf)(ef) | d3efg | {fg}a4d2 |\
+c2B2c2 |
+{f}e2(dc)(BA) | g2(a>g)(f>g) | {f2}e4d>e |\
+fga2b2 | a3d b>a | a3fga | {ga}b4a2 |\
+(ba)(gf)(ed) | (B2c2)d2 | {B}A2(GF)(EF) | D4 :|
+
+%%text (This should be the end of the set of tunes from the Tragedy of Macbeth.)
+
+
+X: 12082
+T: The Banks of Sligoe
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.8 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+|: "_Slow"\
+d2(D>E)(F>G) | {FG}A4d2 | {B}A2(G<F)(E<D) | e3fg2 |\
+f2D2(B/c/)d | {B}A2(G<F)(E<D) | (B>cd)AGF | (TE>D)E4 |
+(e>f)(gf)(ed) | {c}TB4A2 | (BAB)cd2 | D3ED2 ::\
+d2(D>E)(F>G) | A2(G<F)(E<D) | e2(E>F)(G>A) | B2(A<G)(F<E) |
+g6 | f6 | e2(gf)(ed) | {c2}TB4A2 |\
+(BA)(Bc)(de) | (fg)a4 | (B<A)(G<F)(E<D) | D3df2 :|
+
+
+X: 12081
+T: The Bonniest Lass in a the Warld.
+%R: air, reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.8
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The last half of bar 45 has "Part 2d" under the {e}d3B portion.
+M: C|
+L: 1/8
+K: G
+GA |\
+B2D2 E2G2 | (cB)(TAG) E2(DE) | G2g2 (de)(gd) | Te4 d2(ef) |\
+(gf)(ed) (ef)gB | (cB)(TA>G) E2(DE) | G2g2 (de)(cd) | TB3A G2 :|
+|: (ef) |\
+(gf)(ed) (ef)(ge) | (ag)(fe) (fg)(af) | gfga bgab | Te4 d2(ga) |\
+(bag).e (deg).B | (cB)(TAG) E2(DE) | G2g2 (de)(cd) | TB3A G2 :|
+|: (GA) |\
+BdDG (TEDE)G | cBAG TE2(DE) | GBdg Bdgb | e4 Td2(ef) |\
+g(b/a/ g/f/e/d/) egBg | cABG EGDE |
+Ggfe dgcg | TB3A G2 :: (ef) |\
+g(b/g/) d(g/d/) (Bdg)b | (ag)(fe) fd/f/ a(f/a/) | g(d/g/) b(g/b/) d'(g/a/b/g/a/b/) |
+Te4 d2(ba) |\
+{a}g3e d(g/f/e/d/c/B/) | (c<A)(B<G) TE2DE | Gg2(f/e/) (d/g/f/e/ d/c/B/c/) | TB3AG2 :: GA |\
+Bd2D EG2B |
+c(e/d/ c/B/A/G/) E2DE | (G/B/)d (B/d/)g (d/g/)b (a/f/)g | Te4 d2(ef) |\
+g(b/g/) d(g/d/) eg/d/ B(g/B/) | (e/f/e/d/ c/B/A/G/) E2DE |
+(G/B/)d (B/d/)g (e/d/c/B/) (c/A/)d | TB3A G2 :: ef |\
+gde=f {f}e3e | a/e/c' a/e/c' {g}f3f | (g/f/)g (a/g/)a bdgb |
+Te4 d2ga |\
+(b/a/)g (g/f/)e {e}d3B | (e/d/)c (B/A/)G EGDE | Gg2(f/e/) d(c/B/) (A/B/c/d/) | TB3A G2 :|
+
+
+X: 12101
+T: Bonny Charity
+%R: reel+jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.10 #1 (and top 4 staves of p.11)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: G
+%%slurgraces 1
+%%graceslurs 1
+"_Brisk"g2 |\
+dBTAG (DE)(GA) | TB2(AG) G2c_B | A2(G=F) =f3g | {fg}a2(AB) A2(ge) |\
+dBTAG (DE)(GA) | B2(TA>G) G3B |
+A2B2 g3a | {ga}b2(d>e) d2(cB) |\
+A2B2 g3a | (b<a) (g<e) (g<e) (d<B) | A2G=F =f3g | {fg}a2(AB) A2(GA) |\
+TB2(AB) Tc2(Bc) |
+d2(ef) g3e | (de)(dB) (cA)(dc) | TB2(AG) G2 :: g2 |\
+dBAG (DE)(GA) | BdAB GABG | cATG=F =fede | =fgab ABge |
+dBTAG DEGA | BdAB GABG | AGAB gfgd | egde BcdB |\
+AGAB gdBg | dBgd BgdB |
+cAG=F =fede | =fgab ABge |\
+dBAG DEGA | TBABG gfgd | egBg ABcd | B2TA>G G2 :|
+|: "^Giga"y[M:6/8] "_Allegro"g |\
+dcB ABG | DGA BAG | A=FA cAc | faf cfc |\
+Bdc BAG | DGA BAG | BGB dBd | gbg dgd |
+BGB dBd | gbg dgc | A=FA cAc | =faf cfa |\
+gde dBd | GBd gec | dgc BgB | Agf G2 :|
+|: g |\
+dcB ABG | Dga bag | a=FA c=fc | AcA =FAa |\
+gdc BAG | Dga bag | bGB dBd | (g/a/b)g dgd |
+BGB dBd | (g/a/)bg dgc | a=FA c=fc | (A/B/)cA =FAa |\
+gde (d/c/B/A/)B | GBd (g/f/e/d/)e | dgc BgB | Agf G2 :|
+
+
+X: 12111
+T: Bonny Jane
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.11 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Some of the grace notes have slurs, others don't, in no discernable pattern.
+M: C
+L: 1/8
+K: G
+"_Slow"TB>A |\
+G2(G/A/B) D3E | G3A TB2(TA>G) | c3e {e}dB{B}AG | ABAG E2TB>A |\
+G2(B/c/d) D3E | G2ef {ef}Tg2(f>e) | d(g/f/) (e/d/c/B/) ABcd |
+TB2(A>G) G2 :: ba |\
+g2(g/a/)b d3e | (gfg)a {ga}b2ga | (b/a/)g (a/g/)e (ged)B | ({AB}cB)(AG) E2(TB>A) |\
+G2(B/c/d) D3E |
+G2(e>f) {ef}g2(f>e) | d>edB (ABcd) | B2TA>G G2 :: TB>A |\
+G2(B>c) {Bc}d2(D>E) | G2dc B2(TA>G) | cg2c Bg2B | cBAG E2(TB>A) |
+G2(B>c) {Bc}d2D>E | G2Bd {ef}g2(Tf>e) | dg2B (AB)(cd) | B2TA>G G2 :: ba |\
+g2bg d2gB | G2(g>a) {ga}b2(g>a) |
+bg2 e2 d2B | A2BG E2TB>A |\
+GABc dDEF | G2Bd {ef}g2(Tf>e) | d(g/f/) (e/d/c/B/) ABcd | TB2TA>G G2 :|
+
+
+X: 12121
+T: The Yellow Haird Laddie
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.12
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"D>E |\
+{E}F2 A2 (B>c) | d3 e (d/e/)f | (A>B) (A<F) (TE>D) | {D}E4 D>E |\
+{E}F2 A2 B2 | (d>c)(d>e) (d/e/f) |[1 A>BAFE>D | D4 :|[2 A2 g<fTe>d | d4 |
+|: (de) |\
+f2 af(Ted) | c2 ec(TBA) | (Bc)(dB)(AF) | {F2}TE4 D>E | F2 A2 (Bc) |\
+[1 dcde d/e/f | A3 f (Te>d) | d4 :|[2 (dc)dBAd | AB TE3D | D4 |]
+"^Variation"DE |\
+F A2 B2 c | d/A/f- fe2d- | d(c/B/) (A/F/)d (A/F/)D | {F2}E4 (DE) |\
+F(D/F/) A(F/A/) d(A/d/) |[1 f2 edcB | Ad F2 TE2 | D4 :|
+[2 B2 c2 d2 | b/a/g f2 Te2 | d4 |: (de) |\
+f/d/a- (.a/.g/.f/.e/ .d/.c/.B/.A/) | (B/G/)g (.g/.f/.e/.d/ .c/.B/.A/.G/) |\
+(F/A/)d (B/G/)d (A/F/)d |
+{F2}E4 (DE) | FDAFdA |\
+[1 Bgcadb | a/(f/e/d/) f2 Te2 | d4 :|\
+[2 f2 g/f/e/d/ c/B/A/G/ | (3(FAd) F2 E2 | D4 |]
+
+
+X: 12131
+T: The Gray Ey'd Morning
+%R: waltz, march/reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.13
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: C
+"_Slow"G2 |\
+c3edf | e2(fe)(dc) | (ef)g2(ga) | g4a2 |\
+gc'bagf | e(f/g/) (fe)(dc) | (Bc)(Tc3B/c/) | d4e2 |
+(fed)ecd | {c}B3AG2 | (cBA)E^FG | {G}T^F3ED2 |\
+G3BAc | (Bde)dgd | (cBA)GA^F | G3 :|
+|: Bc |\
+d(B/c/) dBdB | G3fef | g(e/f/) gege | c3cde |\
+f(d/e/) fdBG | e(c/d/) ecAF | E(.f.e.d.c.B) | A4E2 |
+(ABc)BcA | f4e2 | d2(AB)(cd) | B3AG2 |\
+(c/d/)e (d/e/)f (e/f/)g | fagbc'g | feTd3c | c4 :|
+|: [M:2/4] "_Brisk"G |\
+(3(cdc) (3(ded) | e2zd | e2^f2 | g2zg |\
+cc'ag | fc'ag | f2e2 | d2ze |\
+fedc | B2zB |
+cE^FG | ^F2zD |\
+Gged | e^FGc | B2(TA3/G//A//) | G3 :: (B/c/) |\
+dBdB | G2g2- | gege | c2f2- |\
+f(d/c/) BG |
+ec/B/ AF | EdcB | A2zE |\
+ABcA | f2e2 | dABc | B3(A/G/) |\
+cedf | egag | (f<e) Td>c | c3 :|
+
+
+X: 12141
+T: The Lass of Paties Mill
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.14 (and 3 staves on p.15)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"(A3G) |\
+TF4(E2D2) (F2G2)A4 | d8 A6d2 | (B2c2)(d2A2) (B2A2)(G2F2) | {F4}E12 (A3G) |\
+F4E2D2 F2G2A4 | (d6ef) A6d2 | (B2c2)(d2B2) (c2d2)(e2c2) | d6e2 d4 :|
+|: (f3g) |\
+{f}e6d2 c4(B2A2) | (d6ef) A6d2 | (B2c2)(d2A2) (B2A2)(G2F2) | {F4}E12 f3g |\
+(agf2) (gfe2) f2d2B2g2 | {f4}e8 A4(G2F2) | G2B2A2d2 c2e2A2c2 | d6e2 d4 :|
+P: Variation
+A4 |\
+(G2F2)(E2D2) (F2G2)A4 | {de}f4Te3d A6A2 | (BG3)d4 (AF3)(dF3) | E12 A4 |\
+(G2F2)(E2D2) (F2G2)A4 | {de}f4 e2d2 Tc4(B2A2) | B2b2a2g2 (f2e2)(d2c2) |
+d6e2 d2 :: f4 |\
+(g2f2)(e2d2) (c2e2)(A2c2) | d2B2A2G2 TF4E2D2 | G2B2d2A2 B2G2A2F2 | TE6F2 E4(f2g2) |\
+(agfe) d2b2 g2e2c2a2 |
+f2d2B2g2 Tc4(B2A2) | (G2F2)(E2D2) {de}f4Te3f | d6e2 d4 :: (A2G2) |\
+F2D4 F4 A4(Bc) | (defe) (fdef) A6d2 |
+(BABc BcdA) (BAdc BAGF) | {F}E6F2 E4(A2G2) |\
+F2D4 F4 A4(Bc) | (defe) (fdef) A6d2 | BABc d2B2 c2e2A2c2 |
+{c}d6e2 d4 :: (fefg) |\
+{f}e6d2 (cdec) (ABcA) | (dfef) (dfef) A6d2 | B2d2- dcBA B2A2G2F2 | TE6(D/E/F) E4(f2g2) |
+(agfa) (gfeg) (fdcd) (Bagf) | (efgf) (edcB) A4 (G2F2) | G2B2A2d2 B2{ef}g2 {f}e2(dc) | {c}d6e2 d4 :|
+
+
+X: 12151
+T: Lochaber no more
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.15 (top 3 staves continued from p.14)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+"_Slow"G>A |\
+B2 B2 (B/c/)d | TB3 A {BA}G2  | e2 A2 (A/B/)c |{B2}A4 (G>A) |\
+B2 (cB)(AG) | D3 EGA | TB2 (AG) (G>A) | G4 :|
+|: G>A |\
+Bc d2  (e/f/)g | {e}d3 cTB>A | G2 g2 ga | g4 G>A |\
+Bc d2 e2 | d>edc(TB>A) | G2 B2 d2 | g4 d>e |
+(=fef).a.g.f | Te3 d (B/d/)g | (ed)(cB)(AG) | A4 G>A |\
+(Bc)(de) (A>G) | D3 edc | TB2 (AG) (G>A) | G4 :|
+M:6/8
+|: "_Brisk"g |\
+d2G (AB)d | (ed)B A2g | edB d2D | EG G2 :: A |\
+(B/c/d)e (dB)G | (f/g/a)f g2G |
+B/c/de dBA | G2g gdg |\
+=fFf (e/f/g)e | (dB)g (AB)d | (ed)B d2D | EGG G2 :|
+
+
+X: 12161
+T: An thou wert my ain Thing
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.16 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+K: Amix
+%%slurgraces 1
+%%graceslurs 1
+|:"_Slow"\
+E6 F2 (A3B)(c3d) | {c}TB6 A2 F8 | A4 (E3F) A4 (B3c) | (d2c2)(B2A2) c4 (cde2) |\
+E6 F2 A4 (B2c2) | d2c2(TB3A) F6 f2 | e3f e2(dc) {Bc}d2c2(TB3A) |
+A8 {AB}c4 :: (c3d) |\
+{cd}e4 E3F E4 (c3d) | TB6 A2 F4 (E2F2) | A4 (e2f2) e6 f2 | {ef}g2f2e2d2 c4 (TB3A) |\
+(d3e/f/ e2).d2 (c3d/e/ d2).c2 |
+{Bc}d2c2(TB3A) F4 a3f | e2f2A2d2 Tc4 {e}d2cB | A8 {AB}c4 :: z2B2 |\
+(A2^G2)(F3E) A4 B2c2 | (Bcec) (TB3A) F8 | E4 F2^G2 A4 (B2c2) |
+(ec3)(dB3) A4 (cde2) |\
+E4 F2A2 f6 a2 | (efaf ecBA) F4 (A3F) | E6 f2 (ec3) (TB3A) | A8 {AB}c4 :: (c2d2) |\
+e4 (E3F) E6 c2 | {Bc}d2c2(TB3A) F6 f2 |
+e6 f2 A2B2c2d2 | (efaf e2d2) c4 TB3A |\
+(d2A2)(d2f2) (e2A2) (ceac) | {Bc}d2c2(TB3A) F4 (E3F) | (A3B/c/ B3c/d/ c3d/e/) d2(cB) | A8 {AB}c2 :|
+
+
+X: 12162
+T: Oer the Moor to Katie
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.16 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+|:\
+A3G {G2}TF3E | D2(d>c) {c}B3A | G2(g>f) {f}Te3d | (c>d)(e>f) e4 |\
+A3G {G}F3E | D2d>c {c}TB3A | G2g>f {f}e3d | (A>B) (d>e) d4 :|
+|:\
+f2e>a d2c>a | (f>e)(A>c) B2(c>d) | e2(f>^g) a>fB>e | c2(TB>A) A4 |\
+d3=c {c}TB3A | G2g>f {f}e3d | A2(a>g) (f>d)(B>c) | d2(D>E) D4 :|
+
+
+X: 12171
+T: The Bush aboon Traquair
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.17
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Adjusted 1st, last notes in 1st strain to match the others, so the rhythms of repeats work right.
+M: C
+L: 1/16
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"D2 |\
+{DE}F4 A4 d6 f2 | Te2d2 e2(fg) {f}e6 A2 | TF4 A4 f3ec3B | {B4}A8 D6 :: d2 |\
+(c3B)(A3B) (c2d2e2)f2 | Tg3af3g {f}Te6 A2 |
+(d3e)(f3g) {fg}a3bTa3g | Tf3g (agf)e d6 e2 |\
+(Tc2B2c2)d2 e6(gf) | {ef}g2f2Te3d e4 (D3E) | {DE}F4 A4 f2e2 d2(cB) | {B4}A8 D6 :|
+|: D2 |\
+(F2A2)(D2A2)  {c}d6cB | A2f2 (gfed) {d}e4 (A3G) | F2a2f2d2 B4 (Bc)d2 | {B4}TA8 D6 :: d2 |\
+(cdcB ABAB cBcd cdef) |
+(d<A)f2 (e<A)g2 {f}e6 A2 | (dABc defg) {fg}a2(.a.a) {fg}a2(.a.a) | (f3g) (agfe) d6 e2 |\
+(cdcB ABAB cBcd cdef) |
+(gAGA) (fAGA) (efg)f (eGFE) | (FD3) (AF3) (d3f)(B3d) | (AdcB AGFE) D6 :: A2 |\
+F4 A4 d6 f2 |
+(edcd) (eA)(gf) (edcd) (eGFE) | (FD3) (AF3) (d3f)(B3d) | A8 D6 :: d2 |\
+Tc2Bc A2B2 (c2d2e2)f2 | g2A2f2A2 {f}e6 A2 |
+d2(AG) F2A2 d2(fg) a2g2 | (f3g) (agfe) d2(fg) a2d2 |\
+c2(Bc) A2B2 (cAdA eAfA) | g2(ag) (fagf) e4 (D3E) | {DE}F4 A4 (f3e)(d3B) | {B4}TA8 D6 :|
+
+
+X: 12181
+T: Leith Wynd
+%R:
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.18 (and top 6 staves of p.19)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The odd [cB,] "double stops" are probably intended as alternate notes.
+N: In bar 27 the 2nd beat's 1st F was a 1/32 note; lengthened to fix the rhythm.
+M: C
+L: 1/16
+K: D	% and Bm
+TcB |\
+A2d2 (FA)(dF) TE3DE2F2 | A3B ABAF A4- A2(TcB) |\
+AdAd FdFd E3DE2F2 | B2[c2B,2] Bcd^A B3c B2 :|
+|: (Tc>B) |\
+A2d2 ABde {e}f3g (fe)(dc) | d2F2 ABdF A3B A2ag |\
+(fed)f (gfe)g (agf)a (gfe)g | (fgf)e (def)F B3c B2fg |
+afbf gefd ecae fdec | defa ABdF A3B (A2dc) |\
+(BAG)B (AGF)A (GFE)G (FED)F | B2[c2B,2] (Bc)(B^A) B3c B2 :|
+|: "^Variation" TcB |\
+AdAd FdFd TE3DE2F2 | (Adc)B (AGF)G A3B A2(TcB) |\
+Adcd FAdF TE3DE2F2 | B2(dc) (BA)(FA) B3c B2 :|
+|: T(cB) |\
+A2d2 ABde fefg f(a/g/f/e/d/c/) | d2F2 ABdF A4- A2(ag) |\
+fdDf geEg afFa geEg | fgfe (def)F (B3c) B2(fg) |
+(a/g/)fba g(e/g/)f(d/f/) (e/d/)cae f(d/f/)e(c/e/) | (d/c/d/e/)fa (ABd)F A3B A2(dc) |\
+(B/c/B/A/)GB AFdF
+(G/A/G/F/)EG (F/G/F/E/)DF |\
+BF(fe) (ed)(dc) B3c B2 :: TcB | A2dA FdDF E(G/F/G/F/E/D/) E2F2 |\
+"^P.19" A2BD (FA)dF A3B A2(cB) |
+A(B/c/)dA (FA/B/c/d/)F E(G/F/G/F/E/D/) (EF)(GA) | BFDF dcB^A B3c B2 :: TcB | ADFA defg {fg}a3g fe/f/dc |
+dfAd FAdF A4 A2(ag) | (3(fef) (3(def) (3(gfg) (3(efg) (3(aga) (3(fga) (3(gfg) (3(efg) | (f/e/f/g/)fe defF B3c B2(fg) |
+aaff ddff AAdd FFAA | DDFF ABdF A3B A2dc | BgGB AfFA GeEG FdDF | B3[cB,] dcB^A B3c B2 :|
+
+
+X: 12191
+T: Scots Lament By Mr Oswald
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.19 #1 (top 6 staves continued from p.18)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+M: 3/4
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+DE |\
+{E}F2 A2 (A>B) | A4 d>e | f3 efa | {a2}b4 a2 |\
+Tf3 e d2 | B3 AFA | "^+"B2 E2 (EF) | E4 (F>G) |\
+A3 F(TE>D) | "^+"d3 e {de}f2 | (a<f) (e<d) (e<f) |
+{f2}g4 g/a/b |\
+a3 ABd | A3 Tf(e>d) | {A}B2 d2 (de) | d4 :: (fg) |\
+a3 bag | {g}f3 e (f/e/)d |"^+"e2 f2 a2 | {a2}b4 (b/c'/)d' |\
+(b<a)(g<f)(e<d) |
+B3 AFA | {A}B2 E2 (EF) | E4 (FG) |\
+A3 F(TE>D) | d3 e (d/e/)f | D3 d TA>F | E2 F2 A2 |\
+{AB}=c4 TB>A | F3 dBA | {G}TF2 (ED) (DE) | D4 |]
+
+
+X: 12201
+T: The King shall enjoy
+%R: reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.20 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The rhythms at phrase boundariess are rather odd; not fixed.
+M: C
+L: 1/8
+K: D
+"_Andante" z | z4 A2A2 |\
+d2d2 efge | Tf2(ef) g2B2 |\
+c2(de) Te3d | d3 :: f edcd |\
+e3f edcd | e3f edcd |\
+e2(dc) TB4 |
+A2fg abag |\
+f2ed efga | f2ef g2B2 |\
+Tc2de Te3d | d2 :: A |\
+A(B/c/) dd d2 c(e/f/) | (a/g/)(f/e/) (g/f/)(e/d/) cd zc |
+d(=c/B/) cc TcB zd | g(f/e/) fe d(e/B/) Tc>d |\
+d3 :: z z2 zf | eaed c/B/A2f |\
+daed c/B/A2f |
+^gf/e/ aa ab/f/ ^g>a |\
+a2zd cBcA | dagf {f}g>e e/d/c/B/ |\
+Aagf b>a (g/f/)(e/d/) | g(f/e/) fe de/B/ Tc2 |\
+d3 :|
+
+
+X: 12202
+T: The Ragged Sailor
+%R: jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.20 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+"_Brisk"D |\
+GAB (gf)e | (dB)G (AB)d | e2A A2B |\
+GAB gfe | (dB)G (AB)c | TB2A G2 :|
+|: d |\
+(ec)e (dB)d | (ec)e (dB)d | c2B A2d |\
+(ec)e (dB)d | (e/f/)ge dAc | TB2A G2 :|
+
+
+X: 12211
+T: So Merry as we have been
+%R: air, waltz, minuet
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.21 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"f>e |\
+d3 e {de}f2 | A2 G2 (F>G) | {F2}TE4 D2 | d2 f>e f2 |\
+D3 EF>G | {G2}A4 (a>g) | f2 af(Te>d) | TB3/A//B// dB(TAF) |\
+G3 ABc |
+{Bc}d4 (Tc>B) | A>BAGFE | D4 :: TF>E |\
+D2 F>G A2 | D2 FA dF | E4 TF>E | D2 F>G A2 |\
+D2 (F>G) (TG3/F//G//) | A4 a>g |
+f2 {a}gf{f}ed | B2 (d<B) (A<F) |\
+G3 ABc | (dfed) (Tc>B) | A>BAGFE | D4 :: (Tf>e) |\
+d2 e2 {de}f2 | d3 efg | {f2}e4 (Tf>e) |
+d2 (Tf>e) f2 |\
+(dcd).e.f.g | {fg}a4 a>g | (f3/g//a//) gfTe>d | B2 (d<B) (A<F) |\
+G3 ABc | d2 c2 TB2 | A>BAGFE | D4 :|
+
+
+X: 12212
+T: The Berks of Endermay
+%R: air, strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.21 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"(d/e/f/g/) |\
+a3b af(e>d) | (e>d)(e>f) B3d |A>BAF A2(D>E) | F2(A>B) A2(f>g) | a3d' (a<f) (Te>d) | (gfed) B3d |
+A>BAF A2(d>e) | {de}f2(Te>d) d2 :: (A>G) | {G}TF3A BABd | Tedef B3b | ab a(g/f/) {ef}gf(Ted) |
+(e/f/g/a/) Tf>e e3a | fabc' {c'}d'3b | {b}af{f}ed B2(Tf>e) | (dc/B/) A(G/F/) A2(d>e) | {de}f2(Te>d) d2 :|
+
+
+X: 12221
+T: Corn Riggs
+%R: march, reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.22 and p.23
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"A2 |\
+d3e {de}f2(Te>d) | TcBcd {cd}e2A2 | d3e (f>a)(e>f) | d2(fg) f2A2 |\
+d3e {de}f2(Te>d) | (cBc)d {cd}e2A2 | (Bcd).B edTcB | A2(d>e) d2 :|
+|: A2 |\
+d2(a>g) (fga)d | (TcBc)d {cd}e2A2 | d2(a>g) (fae)f | d2ab a3A |\
+d2a2 (bag)f | (gf)(ed) Tc2(BA) | (Bcd)B ed(Tc>B) | A2(d>e) d2 :|
+%
+|: (A>G) |\
+TF2A2 d2(d/e/f) | e2Ad (cde)c | d2(A>G) TF2(E>D) | d2(a>b) a2(a/b/c') |\
+d'2Ta2 f2(Te>d) | (f/g/a) e>d cde(d/c/) | d>c B/A/G/F/ EFGA |
+F2TE>D D2 :: A2 |\
+(dcde f/g/f/g/) ad | TcBcd e(.a/.g/ .f/.e/.d/.c/) | dfad ceae | Tf2(e>d) d3A |\
+(Bcd).e(fga).b |
+(g/a/f/g/ e/f/d/e/ c/d/B/c/ A/B/G/A/) | FAdF Edce | d2D>E D2 :: (A/B/c) |\
+dDFA (d/c/d/e/ f)d | eEed c/B/c/d/ ec |
+dAFA dAFA | d2 (d/e/f/g/) Tf3a |\
+d'aTgf d'aTgf | a(e/d/) cA ceac | BdgB A(G/F/) E/d/c/e/ | d2D>E D2 :|
+|: "^P.23"A2 |\
+df2 a2 f (d/f/e/d/) | ce2 a2 e (c/d/e/c/) | dAdf e(.a/.g/ .f/.e/.d/.c/) | d2{de}f>g f2(A>G) |\
+FA2 d2 a (f/g/a/g/) |
+gf2 e2 d (c/d/e/c/) | (AB/)c/ dF E(.e/.d/ .c/.B/.A/.G/) | F2TE>D D2 :: a2 |\
+d'ad'a (b/c'/b/a/ g/f/e/d/) |
+aAce (.a/.g/.f/.e/ .f/.e/.d/.c/) | dAdA d/f/e/g/ f/a/e/g/ |\
+f2(Te3/d//e//) d3A | dfdf d/f/d/f/ (d/f/e/d/) |
+Aece A/e/d/e/ c/d/e/c/ | GdFd E/(.e/.d/.c/ .A/.G/.F/.E/) | F2TE>D D2 :: A2 |\
+(d<e)(f<g) (a<f)(e<d) | A2ed cABc |
+d2(ag) (fef)A | d2f>g f2A2 |\
+(d<e)(f<g) (a<f)(e<d) | (A<B)(c<d) (e<c)(B<A) | (Bc)dB (ed)cB | A2(de) d2 :: A2 |\
+d2(a>g) (fga)d |
+TcBcd {cd}e2A2 | d2(ag) (fe)fA | d2(ab) a2(bc') |\
+d'a2 f2 d2a- | ae2 c2 A2d | (Bc)(dB) (ed)(cB) | A2(de)d2 :|
+
+# Continuation of Corn Riggs variations from page 22.
+
+
+X: 12241
+T: Through the Wood Laddie
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.24 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The book has two sharps, but it sounds better with C naturals.
+M: 3/4
+L: 1/8
+K: G
+%%slurgraces 1
+%%graceslurs 1
+G>D |\
+{D}E2(G>A) (A3/G//A//) | {A2}B4g>d | {d}e2ge{e}dB | {B2}A4G>A |\
+B3d/c/ TBA | TBAG2G>A | (BAB)dTBA | {c}B2{A}G2GD |
+E2G>A A3/G//A// | B4g>a | ba{a}ge{e}dB | A3Bcd |\
+e2ge{e}dB | (d>ed)cTBA | B2E2F>A | G4 :|
+|: g>d |\
+{d}e2(g>a) (Ta3/g//a//) | b4(g>a) | b2(c'b)(ag) | Ta4(g>a) |\
+b3c'Tb>a | (Tb>a)g2(g>a) | babc'Tb>a | (Tba)g2gd |
+e2(g>a) (Ta3/g//a//) | b4(g>a) | baTge{e}dB | (AGA).B.c.d |\
+(e/d/e/g/) edeB | (d/B/d/e/) dBAd | B2E2(TF>A) | G4 :|
+
+
+X: 12242
+T: The Last Time I came o'er the Moor
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.24 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Added rest to 2nd strain's pickup note, to fix the rhythm.
+N: Dropped dot from last note, to fix the rhythms of repeats.
+M: C
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"(A>G) |\
+F2(TE>D) d3e | {de}f2(Te>d) c2(TB>A) |\
+B3A (FEF)A | B4 {Bc}d3A |\
+F2(TE>D) d3f | (ef/g/) (Te>d) c2(TB>A) |
+(B/d/c/e/ d/f/e/g/) (fe)(dc) | B4 {Bc}d2 :: ze |\
+c2TB>A A3f | ecBc A3F |\
+A3B ABdF | A4 d3A |
+BABd B2AF | AFAB d3e |\
+(fe)(dc) (BA)(GF) | {F2}E4 HD3F |\
+A3F A3F | AFEF A3F |
+(EDE)F (ABd)F | A4 d3A |\
+B2(B/c/)d F2(TE>D) | EF (AB/c/) d3e |\
+(f/g/e/f/ d/e/B/d/) (ABd)g | {f2}Te4 d2 :|
+
+
+X: 12251
+T: Steer her up and had her gaun
+%R: reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.25
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Should the F (sharp) in bar 12 also be F natural?
+N: Added flag to the grace note in the next-to-last bar.
+M: C|
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Brisk"af |\
+d2d2 Tf3e | (de)(fg) a2(AG) | F2A2 A2GF | E2E2 {d}c3e |\
+d2d2 Tf3e | (de)(fg) a2(ga) | bagf edec | {c2}d4 D2 :|
+|: fe |\
+d2A2 F3A | d(AG)A F2ED | E2 =c4 E=F | GFED [E2=C2] fe |\
+d2A2 {G}F3E | DEFG A2gf | (ef)(gf) ecAc | d4 D2 :|
+|:"^Variation"fe |\
+dfag fgef | defg a2AG | FDAF dAGF | EeBd {d}c3e |\
+d2ag fgfe | defg afga |
+bagf efAc | {c2}d4 D2 :: fe |\
+dfAd FADA | dcBA GFED | E=cBc G=cEG | =ceEG [E2=C2] (fe) |\
+dAGA FGEF |
+DEFG Aagf | egce AdEc | {c2}d4 D2 :: fe |\
+dfa2- agfe | dfaf d2AG | FAd2- dAGF |
+EG Bg Tc3A |\
+dfa2 agfe | defg abga | bagf ed'ec' | d'dfa d2 :: fe |\
+dafa dfAc |
+dcBA GFED | EG=c2 EG=c2 | e=c GE [E=C]EAG |\
+FDAF dAeA | fdaf d'agf | eefg {f}e2(dc) | {c2}d4 D2 :|
+
+
+X: 12261
+T: I Love my Love in secret
+%R: air, march, reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.26 (and top 9 staffs of p.27)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The repeat symbol in bar 24 is missing its dots; fixed.
+M: C|
+L: 1/8
+K: C
+"_Slow"gf |\
+e2(dc) c3G | A2(de) d2(gf) | e2dc g2c2 | fgag {f}e2(dc) |\
+(fga)f (efg)e | (fe)(dc) Td3c | egac (g<e) (Td>c) | A2(cd) c2 :|
+|:\
+(Tgf) | e2(Tdc) g2G2 | A2(de) d2(gf) | e2(dc) g2c2 | a2c2 g2c2 |\
+(fga)f (efg)e | (fe)(Tdc) (de)(fg) | (abc')c (g<e) (Td>c) | A2(c>d) c2 :|
+|: "^Variations"(gf) |\
+egcg ecgG | A2(de) d2(gf) | egcg ecgc | acgc ecge |\
+(f/e/f/g/) af (e/d/e/f/) ge | (fe)(dc) d2eg |
+aegc (g<e) (Td>c) | A2(cd) c2 :: (gf) |\
+eg2 c2 e2G | A2(d>e) d2(gf) | eg2 c2 g2c | ac'2c gc'2c |\
+fa2c' eg2c' | (f/e/f/)g/ (e/d/e/)f/ {e}d3g |
+(a/g/a/b/) c'c (g<e) (Td>c) | A2(cd) c2 :: (gf) |\
+ecgc c'/g/e/c/ c'/g/e/c/ | GABc d2gf | .e/(c/B/c/) .g/(c/B/c/) .a/(c/B/c/) .g/(c/B/c/) |
+c'(b/a/) gf edec |\
+(f/a/)c' (f/a/)c' (e/g/)c' (e/g/)c' | (fe)(dc) d2eg | (ag)(ec') (g<e)(Td>c) | A2(cd) c2 :|
+|: gf |\
+(3(ege) (3(cec) (3(GcG) (3(EcG) | A2d>e d2Tg>f |\
+(3(ege) (3(cec) (3(GcG) (3(Ec'g) | (3(ac'a) (3(faf) (3(gc'g) (3(ege) |\
+(3(fac') (3(c'af) (3(egc') (3(c'ge) |
+(3(afd) (3(gec) Td3c | (eg)(ac') (g<e) (Td>c) | A2(cd) c2 :: gf |\
+e/g/g/g/ c/g/g/g/ e/g/g/g/ c/g/g/g/ | B/d/d/d/ G/d/d/d/ B/d/d/d/ G/d/d/d/ |
+e/g/g/g/ c/g/g/g/ e/g/g/g/ c/g/g/g/ | a/g/g/g/ e/g/g/g/ a/g/g/g/ c/g/g/g/ |\
+c'/c'/c'/c'/ b/b/b/b/ a/a/a/a/ g/g/g/g/ |
+fe (a/g/)(f/e/) defg |\
+(a/c'/b/)d'/ c'c (g<e)(Td>c) | A2(c>d) c2 :: (gf) |\
+e2(dc) gG ce | A2(de) d2(gf) |
+eg (f/e/)(d/c/) gc'cg | ac'ca gc'cg |\
+(F/c/)(a/c/) (F/c/)(a/c/) (E/c/)(g/c/) (E/c/)(g/c/) | (ag)(fe) d2(ef) |\
+a3c' (g<e)(Td>c) | A2(cd) c2 :|
+
+
+X: 12271
+T: Barbara Allan
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.27 (bottom 3 staves; top 9 continued from p.26)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Em
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"B2 |\
+e2(ef) {ef}g2(fe) | (de)(fg) {fg}a2(gf) |\
+e3f (gf)(ed) | B2 e4 :: d2 | B2d2 A2(BA) |\
+G3A B2(ed) | B3A G3A | B2 e4 :|
+
+
+X: 12281
+T: The Bonny Boat Man
+%R: reel, jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.28
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"F>G |\
+A3d (BA)(GF) | {EF}GFED A3A | B(d/c/) de fdgf | {f2}Te4 E2(FG) |\
+A3d (BA)(GF) | {EF}GFED A3F | G2(AB) A2(Tc>e) |
+d4 F2 :: (dc) |\
+(BA)Bc (de)fd | {a}g2{g}f2 {f}e3E |\
+TF2A2 (d>e)(fg) | {f2}e4 E2(FG) |\
+A3d BAGF | {EF}GFED A2(GF) | GBAd (c/d/)e ATc |
+{c2}d4 D2 :: FG |\
+AFDA FAdA | (F/A/G/F/) (E/G/F/E/) DFAd |\
+FA df d(f/g/) a(g/f/) | {f2}Te4 E2 (Tf>e) |\
+d(f/d/) A(d/A/) FAdA |
+F(G/F/) E(F/E/) DFGB |\
+A(d/c/) B(g/f/) e(f/d/) c(B/c/) | {c2}d4 D2 :: (fg) |\
+afdA d(d/e/) f/d/e/f/ | {a}gfTed cd eA/G/ |
+FDFA FA df | Te>def EEFG |\
+A(B/A/) (B/A/G/F/) (A/F/)d (A/F/)d | GFED (A/F/)(d/c/) (B/A/G/F/) |\
+GBAd ce A(d/c/) | {c2}d4 D2 :|
+P: Gigga
+M: 6/8
+|: "_Allegro"F/G/ |\
+AdA FDA | (B/c/d)B AFD | FGA def | e3 E2(A/G/) |\
+(FD)F (AF)A | (BG)B Tc>BA | (f/g/a)d Adc | d3 D2 :|
+|: (d/c/) |\
+(Bc)A (de)f | (gf)e (ag)f | (eA)G (FA)d | TA3 G3 |\
+(F/G/A)d (dA)F | (GB)e (ec)A | (f/g/a)d Adc | d3 D2 :|
+
+%%center FINE
+
+
+X: 12291
+T: Pegey's Lament % By Mr Oswald
+T: Pegie's Lament
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.29 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+|: "_Slow"\
+G2 B2 (B/c/d) | d4 (e/f/g) | (ed)(cB()AG) | (G/A/B) D4 |\
+(D<G)(G<B) (A<G) | (c/d/e) e4 | (g/a/b) b4 | (E/F/G) G4 ::\
+G2 (c/B/)A (Bc) | d2 (cB)(AG) |
+A2 (cB)(cd) | (ea) a3 b |\
+(c'b)(ag) e2 | (fg)(ad) B2 | (cd)(ef) gB | (A>G) A4 |\
+(D<G)(G<B)(B<d) | (TB>A) G4 | (g/a/)b b4 | (E/F/)G G4 :|
+
+
+X: 12292
+T: Tak your Auld Cloak about you
+%R: air, waltz, minuet
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.29 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Am
+"_Slow"E |\
+A>B {B}c3 e | {e}d>c {c}B3 B | {d}c>B A3 B | {A}^G>F E2 zE |\
+EA c2 (c/d/e) |
+{e}d>c B3 d | Tc>B A3 ^G | A>B c3 :: G |\
+GE G3 G | AE G3 G | EA A3 ^G | A>B c3 G |\
+G>A c3 c | (d>e) g3 g |
+e^g Ha2 (e>d) | Tc>B A3 :: E |\
+(A/c/B/d/) c3 (a/g/) | (f/e/d/c/) {c}B3 e | {d}c{c}B (Ac)(TBA) | ({A}^G{G}F) E3 E |
+(E/A/)(A/c/) c3 (d/e/) | (f/d/e/f/) {c}TB3 e | {d}c{c}B A3 ^G | (A/c/B/d/) c3 :: d |\
+(ec)(GE) G3 F |
+(E/c/G/E/) G2 zG | (EA)(^GB) (A/c/B/d/) | (c/e/d/f/) e3d |\
+c>c c2 (3(gec) | (d/c/d/e/) {f}g3 g | (e^g) Ha2 Te>d | Tc>B A3 :|
+
+
+X: 12301
+T: Sour Plums
+%R: air
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.30 (plus 2 staffs on p.31)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: This tune uses flats to cancel the sharp in the key signature; transcribed as naturals.
+M: C
+L: 1/16
+K: G
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"G3A |\
+B6 c2 B4 g2(fe) | {e}d2B2{B}A2G2 A6B2 |\
+G6B2 (TB2A2B2)d2 | e2(g2e2d2) TB4d4 |\
+e2g2{e}d2B2 d3ed2A2 | B2d2g2B2 TA4G2E2 |
+(D2E2G2)A2 (B2d2g2)G2 | B4(TA3G) G6 :: d2 |\
+(e3f)(g3a) g4G4 | g4d3g Te6d2 |\
+B4(d3e) (=f3a)(g3f) | Te6d2 d6g2 |
+(e3^f)(g3a) g4G4 | (gfga) g2d2 e4(Td3c) |\
+(B2c2d2)e2 =f2d2g2f2 | (Te2d2e2)g2 Td6d2 |\
+(e2d2e2f2) {f}g4G3A | B2d2g2d2 e4(Td3c) |
+(TB3A)B4 d2B2d4 | Te3de4 =f6a2 |\
+Tg2e2g4 (edBd)e4 | Td2B2d4 (TB3A)B4 |\
+g2ba gaeg (d2e2g2)B2 | TA6G2 G6 :|
+|: E2 |\
+D2E2G2A2 B2A2B2d2 | e2g2{e}d2B2 A2B2A2G2 |\
+(D3E)(G3A) (TB2A2B2)d2 | e2g2e2d2 TB4g4 |\
+(eg)(de) B2e2 (de)(Bd) A2d2 | (Bg)(de) (Bd)(GB) TA6GE |
+(D2E2G2)A2 B2d2g2B2 | TA6G2 G6 :: d2 |\
+e3fg3a gfga g2G2 | g2b2Ta2g2 Te4d3c |\
+B2c2d2e2 (=fefg fagf) | Te3de2g2 {e}d6d2 |
+(e3^f)(g3a) (gfg)a (gfg)G | g2d2g2=f2 {f}Te6d2 |\
+B4(d2e2) =f2F2 (fag)f | (ede)g (edB)e d6d2 |\
+e2d2 (egf)a g4G3A | B2d2g2d2 e4(Td3c) |
+(BAB)c B4 (dBd)e d4 | (ede=f) e4 =f6a2 |\
+(gede) g4 (edBd) e4 | (dBAB) d4 (TB3A)B4 |\
+g2(ba) (ga)(eg) (d2e2g2)B2 | TA6G2 G6 :|
+
+
+X: 12311
+T: The Shepherds Pipe % by Mr Oswald
+C: James Oswald
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.33 #1 (after top 2 staves continued from p.30)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Dot added to g note in bar 7.
+M: 3/4
+L: 1/8
+K: G
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"TB>A |\
+G4 A2 | {c}TB3 AG2 | g4 f2 | e3 f {ef}g2 |\
+d2(c>B)(A>c) | {c}B3 A (B/A/G) | g3 e{e}Td>B | A4 TB>A |
+G4 A2 | TB3 A (B/A/G) | (A2B2)d2 | e4 (d/e/)f |\
+g3 aba | g>ag{f}ed>B | (A<B)d2d>e | d4 :|
+|: g>f |\
+{f2}e4 d2 | B2d2e2 |(g>a) (Ta3g/a/) | b3 a (g/a/)b |\
+a3 g (e/g/)a | g3 e (d/e/)g | e3 d (e/d/c/B/) | A4 (d>c) |
+TB3 ABG | {f2}g4 (Tf>e) | (d>e)(d>B)(TA>G) | E4 b>a |\
+g4 b>a | (g>e)(dB)(TA>G) | (D<E)G2(G>A) | G4 :|
+
+
+X: 12312
+T: O Jenny come down to Jock
+%R: jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.31 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+"_Brisk"D |\
+GAG g2a | (fed) e2d | (e/f/g)B (AB)c | (BAG) G2 :: (B/c/) |\
+(de)d (dB)g | GAB A2g |
+(fg)a (ef)g | Te2d d2f |\
+(g/a/b)g a2d | (e/f/g)B ABc | Bcd dBg | TA2G G2 :|
+
+
+X: 12321
+T: Cumernad House
+%R: strathspey
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.32 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Double barline in bar 4 doesn't match repeat sign at very end; not fixed.
+N: The intent may have been a 2x12-bar tune, but repeat the strains as you like.
+M: C
+L: 1/16
+K: G
+%%slurgraces 1
+%%graceslurs 1
+(G3A) |\
+(B3A)(B3e) (dB3) (TA3G) | (E2D2E2)G2 A4 B3d | (e3d)B3g (dB3) (TA3G) | (D3E) (G3A) G4 |]
+(TB3A) |\
+(G2A2)(B2c2) d4 {ef}g4 | {e}d2(cB) (cB)(AG) {Bc}d4 (g3f) | (e2f2g2)a2 f4 (Te3d) | B4 (e3f) e4 d2(ef) |
+(g2f2e2)d2 B4 {ef}g4 | {e}d2(cB) (cB)(AG) A4 B2d2 | e2d2 (egf)g {e}d2(cB) (cB)(AG) | (D3E) (G3A) G4 :|
+
+
+X: 12322
+T: Jocky's Gray Breeches
+N: There's a space in the title instead of the apostrophe.
+%R: air + reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.32 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Dmix % or Bdor
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"d>e |\
+f3a (Te>d) | B4(A/B/)d | D4 (E>F) | {G2}A4 (d>e) |\
+Tf3 e (d/f/e/d/) | TB3 A F2 | E4 {E}FA | {A2}B4 :|
+|: dB |\
+A3 Bde | Tf3 e (d/e/f/)a/ | b3 a (d'/b/a/)g/ | {f2}e4 {e}f>a |\
+b3 a (f/a/)b | Ta3 fef | d3 e (Te>d) | B4 ::
+K: C
+"_Brisk"de |\
+f4 e3d | B4 {AB}d4 | F2(ED) E2F2 | d2 A4 (de) |\
+f2(ef) (af)(ed) | B4 {AB}d4 | F2(ED) E2F2 | d2 B4 :|
+|: d2 |\
+A3B d2e2 | {de}f4 Te2d2 | edef abaf | Tf2 e4 fa |\
+babd' b2af | afab a2fe | d3e faef | {e}d2B2 B2 :|
+
+
+X: 12331
+T: The Cock Laird
+%R: air, waltz, jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.33 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Em
+"_Slow"e2 |\
+(d^c) B2 e2 | (d2 B2) ^c2 | d3 ed^c | B4 (e^d) |\
+e3 f (e/f/g) | G3 ABc | d3 edc | B4 :: F2 |\
+G3 ABc | {B}TA3 G F2 |
+G2 (F<E) (e<^d) | {d2}e4 (EF) |\
+G3 ABc | {B}A3 G F2 | GA B2 ^D2 | E4 :: B2 |\
+e6 | d6 | c3 B (A/B/c) | {c}TB3 A G2 |\
+g4 f2 |
+{f}e3 d B2 | TA2 G2 A2 | B4 :: F2 |\
+G6 | A6 | B2 e2 ^d2 | {d2}e4 (EF) |\
+G3 A B2 | A3 B {AB}c2 | {c}B2 A2 B2 | E4 :|
+P: Gig
+M: 6/8
+"_Brisk"e |\
+(dB)A G2e | (dB)A G2A | (Be)d TB2A | (GA)F E2 :: F |\
+G2A BAG | (dB)G (AF)D | G2A (Bg)f | Te2d B2g |\
+(dB)g TB2A | GAF E2 :|
+
+
+X: 12332
+T: Come sweet Lass
+%R: reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.33 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+K: G
+|: "_Brisk"\
+TE4d4 {c}B6e2 | d2B2(TA2G2) A2F2(TE2D2) |\
+G4 d4 {c}B6e2 | d2g2 a2(gf) g8 :|
+|:\
+f4 (fg)a2 d6 (ef) | g2e2d2B2 e6d2 |\
+(edcB) (cBAG) F2(GA) D2c2 | B4(TA3G) G6 :|
+
+
+X: 12341
+T: Jamy come try me By Mr Oswald
+C: James Oswald
+%R: air, waltz, jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.34 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The "Brisk" part has M:6/8, but it's actually 9/8.
+M: 3/4
+L: 1/8
+K: G
+%%slurgraces 1
+%%graceslurs 1
+|: "_Slow"\
+G3 ABd | {d2}e4 {de}g2 | E2 G2 (cB) | {B2}TA4 G2 |\
+g3 GAB | e2 d2 e2 | g2 d2 (bc') | Ta4 g2 :|
+|:\
+g3 a (b/a/)g | Tf2 (ef) d2 | (gf)(ga)(bc') | {b2}a4 (gf) |\
+g3 fTe>d | B2 e2 d2 | (b<a) (g<e) (d<B) | {B2}TA4 G2 :|
+M: 9/8
+|: "_Brisk"\
+G2d (dB)d e2g | G2d (dc)B A2G |\
+G2d (dB)e e2f | (gf)e (dc)B TA2G :|
+|:\
+g2g (g/a/b)g (f/g/a)f | g2g (g/a/b)g Ta2(g/f/) |\
+(gd)g (g/a/b)g (f/g/a)f | (e/f/g)e (dc)B A2G :|
+
+
+X: 12342
+T: Blow Bonnetts
+%R: air, reel
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.34 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: Added dot to last note of both strains, to fix the rhythm, but there's still a missing 8th note at the beginning.
+M: C
+L: 1/16
+K: D
+%%slurgraces 1
+%%graceslurs 1
+|: "_Slow"\
+(def2) (e3d) {d}e4 A4 | (d2c2)(B2A2) (B2A2)(G2F2) |\
+G6A2 (GAB2) A2G2 | F2A2d2F2 TE4 D4 |\
+(def2) (Te3d) {d}e4 A4 | (B3c/d/) (c3d/e/) (d3e/f/) A4 |
+(B3d)(c3e) d2f2 e2(fg) | f4 Te3d d6 :: A2 |\
+d2f2e2d2 {fg}a6c2 | (d2c2)(B2A2) {cd}e6dc |\
+B2A2B2c2 {Bc}d4 Tc2B2 |
+A2d2F2d2 TE4 D4 |\
+(d2c2B2)A2 B2G2(F2G2) | (g2f2)(e2d2) Tc2B2 A4 |\
+(B/c/d3) (c/d/e3) (d/e/f3) (e/f/g3) | Tf4 (Te3d) d6 :|
+
+
+X: 12351
+T: The Mucking of Geordys Byre
+%R: air, waltz + slip-jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.35
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Bm
+%%slurgraces 1
+%%graceslurs 1
+"_Slow"Tf>e |\
+{e}d2 B2 B>d | TB4 A2 | B2 d2 e2 | Tf3 e d2 |\
+e3 (e {de}f2) | A4 (Tf>e) | {e}d2 B2 (B>d) | TB4 A2 |\
+"^+"B2 d2 e2 | "^+"f2 (gf)(ed) | {f}Te3 d (d/e/)f | B4 :|
+|: g2 |\
+(fg) a2 g2 | Tf3 e (f/e/d/e/) | d4 e2 | (fg) a2 (gf) |\
+{f2}e4 d2 | A4 fg | "^+"a2 ba(Tgf) | g2 {fg}agTf>e |\
+Tf2 ef d2 | A2 g2 f2 | e3 d (d/e/)f | B4 a2 |
+b2 a2 f2 | a2 (f>a)(e>a) | {g}f3 e d2 | (e2 f2) a2 |\
+{f2}Te4 d2 | A3 afa | b2 B2 Bd | TB4 A2 |\
+B2 b2 a2 | f2 (gf)(ed) | Te3 d {de}f2 | B4 :|
+M: 9/8
+|: "_Brisk"(f/e/) |\
+(dB)B TB2A (Bd)e | (fe)d (de)f A2f |\
+(dB)B B2A (Bd)e | fed Te2d B2 :|
+|: f/g/ |\
+(ag)f g(a/g/f/e/) (fe)d | a(b/a/g/f/) Te2d A2(f/g/) |\
+a(b/a/g/f/) g(a/g/f/e/) f(g/f/e/d/) |
+abd Te2d B2a |\
+(ba)f (af)e Tf>ed | (ef)a Te2d A2d |\
+B3 TB2A (Bb)a | fed Te2d B2 :|
+
+
+X: 12361
+T: The Low Lands of Holand
+%R: air, strathspey, jig
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.36 #1
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+N: The book has 2 sharps, but all the G notes are sharp and the tonic is clearly A.
+N: So I show the key as A major, and omit the sharps.
+M: C
+L: 1/8
+K: A
+"_Slow"e2 |\
+{d}Tc3 B (A>B)(c>d) | (e>d)(e>f) e2(dc) |\
+{Bc}d3B (A<F) (E>F) | D6 ({f}Te>d) |\
+c2(BA) (AB)(cd) | (e>d)ef e2(dc) |\
+(dcd)e f3g | e6 (Ted) |
+Tc3B (AB)(cd) | e3f e2(dc) |\
+{Bc}d3B (A<F) (E>F) | D6 F>A |\
+E4 {E}F2A2 | E3F (AB)(cd) |\
+(e>f) e(d/c/) {Bc}dc(TB>A) | A6 :|
+P: Gigg
+M: 6/8
+"_Brisk"E |\
+A2A (Bc)e | f3 a3 | (ec)A (AB)c | (Bc)A (BG)E |\
+(AB)A (Bc)e | f3 a2f | (ec)A TB2A | A3- A2 :|
+|: e |\
+a2a (ga)g | Tf3 {f}e2c | B2B (Bc)e | a2g Tf3 |\
+a3 (ec)A | (Bc)e f2a | efA TB2A | A3- A2 :|
+
+
+X: 12362
+T: Laslys March
+%R: jig, march
+B: James Oswald "The Caledonian Pocket Companion" v.1 b.1 p.36 #2
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+|:\
+d3 d3 | (dc)B (AB)c | (dc)B (AG)F | (F/G/A)F TE2D |\
+e3 e2e | (fe)d (ea)g | Tf>ed dAB | d>e (f/>g/) Te2d :|
+|:\
+fdd e AA | f(g/f/e/d/) eAA | gee fBB | g(a/g/f/e/) fBB |\
+fdd eAA | f(g/f/e/d/) eag | Tf>ed (dA)B | d>e (f/g/) Te2d :|
+|:\
+(df)a (df)a | (df)a (af)d | (eg)b (eg)b | (eg)b (bg)e |\
+(df)a (df)a | (df)a a>b (a/g/) | Tf>ed dAB | d>e f/g/ Te2d :|

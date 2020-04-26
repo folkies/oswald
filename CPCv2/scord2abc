@@ -1,0 +1,138 @@
+#!/usr/bin/perl -dw
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+#NAME
+#  scord2abc - Convert scordatura to standard tuning 
+#
+#SYNOPSIS
+#  scord2abc [file]..
+#REQUIRES
+#
+#DESCRIPTION
+# This reads abc music that's in "scordatura" tuning for violin, and converts
+# it to standard G,DAe tuning.
+#
+# So far I've only had to convert A,EA^c tuning, so that's all it's been tested
+# for.  Eventually I'll have to get around to doing some others.
+#
+#OPTIONS
+# None yet, but there may be some soon.
+#
+#EXAMPLES
+#
+#FILES
+#
+#BUGS
+#
+#SEE ALSO
+#
+#AUTHOR
+#  John Chambers <jc@trillian.mit.edu>
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+
+$| = 1;
+$exitstat = 0;
+($P = $0) =~ s".*/"";
+$V = $ENV{"V_$P"} || $ENV{"D_$P"} || 2;	# Verbose level.
+print "%V=$V\n" if $V>1;
+
+$inhdr = 0;		# Whether we're in the header part of a tune
+$inabc = 0;		# Whether we're in the music part of a tune
+
+# Lists of symbols for notes:
+@Fnotes = (		# Chromatic scale with flat notes
+	'G,', '_A', 'A,', '_B,', 'B,', 
+	'C', '_D', 'D', '_E', 'E', 'F', '_G', 'G', '_A', 'A', '_B', 'B',
+	'c', '_d', 'd', '_e', 'e', 'f', '_g', 'g', '_a', 'a', '_b', 'b',
+	'c\'', '_d\'', 'd\'', '_e\'', 'e\'', 'f\'', '_f\'', 'g\'', '_a\'', 'a\'', '_b\'', 'b\'',
+);
+@Snotes = (		# Chromatic scale with sharp notes
+	'G,', '^G', 'A,', '^A,', 'B,', 
+	'C', '^C', 'D', '^D', 'E', 'F', '^F', 'G', '^G', 'A', '^A', 'B',
+	'c', '^c', 'd', '^d', 'e', 'f', '^f', 'g', '^g', 'a', '^a', 'b',
+	'c\'', '^c\'', 'd\'', '^d\'', 'e\'', 'f\'', '^f\'', 'g\'', '^g\'', 'a\'', '^a\'', 'b\'',
+);
+
+line:
+for $line (<>) {
+	$line =~ s/[\r\s]$//;	# Trim trailing white stuff
+	print "===> $line\n" if $V>1;
+	if ($line eq '') {		# Blank line?
+		if ($inhdr || $inabc) {
+			$inhdr = $inabc = 0;	# End of ABC tune
+		}
+		print "\n";			# Echo it to output
+		next "$line\n";
+	}
+	if ($line =~ /^\s*%/) {	# Don't translate comments
+		print "$line\n";
+		next line;
+	}
+	if (($hdr,$arg) = ($line =~ /^([A-Za-z]):\s*(.*)$/)) {
+		print "hdr: $hdr:$arg\n" if $V>1;
+		if ($hdr eq 'X' || $hdr eq 'T') {
+			print "%%%% Start of header.\n" if $V>2;
+			$inhdr = 1;
+		} elsif ($hdr eq 'K') {
+			print "%%%% End of header, in ABC music.\n" if $V>2;
+			$inhdr = 0;
+			$inabc = 1;
+		}
+		print "$line\n";
+		next line;
+	}
+	print "	Not a header.\n" if $V>2;
+#	$inhdr = 0;
+#	if ($inhdr) {		# Don't translate header lines (for now)
+#		print "$line\n";
+#		next line;
+#	}
+	if ($inabc) {		# Translate ABC music lines
+		$tran = &trline($line);
+		print "$tran\n";
+		next line;
+	}
+	print "???? $line\n";
+	print "$line\n";	# Any lines outside an ABC tune
+}
+
+sub trline {local($F) = 'trline'; local($line) = @_;
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+# Translate a single line.  The return value is the translation. #
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+	local($v) = '';
+	local($chunk,$rest,$rpl);
+	local($acc,$note,$oct,$len);
+	print "$F: Line:$line\n" if $V>1;
+chunk:
+	while ($line) {
+		print "$F: line=\"$line\"\n" if $V>2;
+		if (($chunk,$rest) = ($line =~ /^(\s+)(.*)$/)) {	# White space is easy
+			$v .= $chunk;
+			$line = $rest;
+			next chunk;
+		}
+#		# Match simple syntax for basic ABC note:
+#		if ($line =~ s"^([A-Ga-g])([\d/]*)"") {		# Note + length (simple for starting)
+#			print "$F: 1=\"$1\" 2=\"$2\"\n" if $V>2;
+#			$rpl = "$1$2";	# Replacement, for debugging
+#			print "$F: rpl=\"$rpl\"\n" if $V>2;
+#			$v .= $rpl;
+#			next chunk;
+#		}
+#		# Match full syntax for an ABC note:
+		if ($line =~ s"^([\^=_]*)([A-Ga-g])([',]*)([\d\/<>]*)"") {	# Accidental+note+octave+length
+			print "$F: acc=\"$1\" note=\"$2\" oct=\"$3\" len=\"$4\"\n" if $V>2;
+			$rpl = "$1$2$3$4";
+			print "$F: rpl=\"$rpl\"\n" if $V>3;
+			$v .= $rpl;
+			next chunk;
+		}
+		if ($line =~ s"(.)"") {	# Temp kludge to pass on anything else
+			$v .= $1;
+			next chunk;
+		}
+	}
+	return $v;
+}
+
+exit $exitstat;

@@ -1,0 +1,176 @@
+% %newpage
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 1
+T: A Highland Battle
+O: ca.1780
+%R: set
+C: James Oswald ed. "The Caledonian Pocket Companion" vol.2 p.68-69
+B: James Oswald ed. "The Caledonian Pocket Companion" vol.2 p.68-69
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+K:
+
+%%sep 1 1 500
+
+X: 2
+T: The March
+%R: strathspey, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.68 #1
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: Dmix
+|:\
+DD3 F3D | E4 TB4 | DD3 F3D | A4 Tf4 ::\
+(af3) d3F | E4 TB4 | (af3) d3F | A4 d4 :|
+|:\
+DA3 F3A | EB3 G3B | DA3 F3d | A4 Tf4 ::\
+af3 d3A | TB3ATB3A | af3 d3F | A4 d4 :|
+|:\
+FF3 F3A | EE3 TE3F| DDD2 FFF2 | A4 Tf4 ::\
+aaa2 Tf3e | eee2 d3B | AAA2 F3A | B4 d4 :|
+
+%%sep 1 1 500
+
+X: 3
+T: They Mend their Pace
+%R: jig, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.68 #2
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Dmix
+|:\
+(F2D) (F2D) | (E2D) (E2D) | (TF2D) (TF2D) | TE2D D2d ::\
+TB2A  TF2d  | TB2A   E2d  |  TB2A   TF2D  | TE2D D2d :|
+
+%%sep 1 1 500
+
+X: 4
+T: The Battle begins
+%R: fanfare, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.68 #3
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/16
+K: Dmix
+|:\
+d2d2d2d2 f4 | d2d2d2d2 e4 | d2d2d2d2 f4 | B2B2B2B2 d4 ::\
+d2B2B2A2 F4 | d2B2B2A2 E4 | d2B2B2A2 F4 | d2B2B2A2 D4 :|
+|:\
+DDDD DDDD f4 | DDDD DDDD E4 | DDDD DDDD f4 | BBBB BBBB d4 :|
+|:\
+dAAA AAAA F4 | dAAA AAAA E4 | dAAA AAAA F4 | BAAA AAAA D4 :|
+
+%%sep 1 1 500
+
+X: 5
+T: The Height of the Battle
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.68 #4
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Dmix
+|:\
+ddd f2d | ddd Te2d | ddd f2d | BBB (d2A) ::\
+dAA (A2F) | dBB (B2G) | dAA (A2F) | BAA (F2D) ::\
+fd/d/d fd/d/d |
+ge/e/e ge/e/e | fd/d/d eB/B/B | dF/F/F AD/D/D ::\
+DD/D/D fd/d/d | DD/D/D GE/E/E | DD/D/D fd/d/d | BF/F/F AD/D/D :|
+|:\
+af/f/f af/f/f | af/f/f ae/e/e/ | af/f/f ed/d/d | BA/A/A FD/D/D ::\
+DD/D/D (f2d) | (f2d) (e2d) | DD/D/D f2d | (B2A) (F2D) :|
+
+%%sep 1 1 500
+
+X: 6
+T: The Preparation for a Retreat
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.68 #5 (and p.68, top 2 staffs + 1 bar)
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: Dmix
+|:\
+f4 dddd | dddd e2d2 | a4 ffff | a4 ffff |\
+f4 dddd | dddd e2d2 | B4 AFFF | AEEE F2D2 :|
+|:\
+DDDD f2dd | f2dd f2dd | a4 ffff | a4 ffff |\
+DDDD f2dd | f2dd f2dd | B4 AFFF | AEEE F2D2 :|
+
+%%sep 1 1 500
+
+X: 7
+T: The Cheif is Killed
+N: Yes, "chief" is misspelt here.
+%R: air, march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.69 #1
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Dmix
+%%slurgraces 1
+%%graceslurs 1
+|:"_Plaintive"\
+f2 fe d2 BA | A2 Bd e2 e2 |\
+f2 (fe) d2 (BA) | A2 Bc d4 ::\
+a2 (ag) f2 (fe) | d2 (ef) g2 f2 |
+a2 (ag) f2 (ed) | c2 (BA) A4 |\
+f2 (fe) d2 (BA) | A2 (Bd) e2 e2 |\
+{de}f2 fe {e}d2 (BA) | A2 (Bd) d4 :|
+
+%%sep 1 1 500
+
+X: 8
+T: The Retreat
+%R: march
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.69 #2
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Dmix
+%%slurgraces 1
+%%graceslurs 1
+|:"_Slow"\
+d<d f>d e>dB>d | A<A F>A B2 d2 |\
+D<D F>D f>de>d | D<D F>A B2 d2 ::\
+a<a f>d e<e d>B | A<AF>A B2 d2 |
+F<F E>D f<f Te>d | F<F A>f B2 d2 ::\
+(f2 e2) (d2 B2) | a<a f>A B2 d2 |\
+b<b a>f g>ef>d | D<D F>A B2 d2 :|
+
+%%sep 1 1 500
+
+X: 9
+T: The Lamentation for the cheif
+N: Yes, "chief" is also misspelt here.
+%R: air, waltz
+B: James Oswald "The Caledonian Pocket Companion" v.2 p.69 #3
+Z: 2018 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Dmix
+%%slurgraces 1
+%%graceslurs 1
+|:"_Plaintive"\
+f3 d ed | B3 ABA | F3 FAF | {F}E3 DDD |\
+{D}f3 d ed | {d}b3 aba | Tf3 e d2 | d6 ::\
+a4 .f.f | .f.f (e2 d2) | a4 ba | ba (f2 e2) |
+.d.d (B2 A2) | .d.d (B2 A2) | {de}f3 e d2 | d4 :: DD |\
+DD (f3 e/d/) | BB d3 (B/A/) | .F.F (B3 A/F/) | EE (F3 E/D/) |\
+DD {D}f3 e/d/ | BB d3 (B/A/) | TF3 E D2 |
+D4 :: aa |\
+a3 f Ted | e3 def | a3 f Ted | e3 d (ef) |\
+dB B2 (BA) | AF F2 BA | TF3 E D2 | D4 :: DD |\
+d4 DD | f4 dd | a3 faf |
+e4 f2 |\
+d4 AA | {A}f3 e (d/B/A) | TF3 E D2 | D4 :: ba |\
+Tf3 e d2 | B4 ba | Tf3 e d2 | {d2}e4 (dB) |\
+d4 (BA) | F4 (BA) | TF3 E D2 | D4 :|
+
+%%center Here ends A Highland Battle
+%%sep 1 1 500
+%%sep 1 1 500
+

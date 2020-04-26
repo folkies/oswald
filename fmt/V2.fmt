@@ -1,0 +1,43 @@
+% abcm2ps format for US 8.5x11 "letter" mode for James Oswald's Caledonian Pocket Companion vol.2
+
+	scale         0.65
+	topmargin     0.90cm
+	leftmargin    1.40cm
+	botmargin     0.90cm
+
+	composerspace 0pt
+	musicspace    1pt
+	partsspace    6pt
+	subtitlespace 0
+	textspace     14
+	titlespace    0
+	topspace      0
+	vocalspace    10pt
+	wordsspace    8
+
+	staffsep      35
+	sysstaffsep   20
+	systemsep     20
+	sysstaffsep   10
+	titleleft     no
+
+	pageheight    27.94cm
+	pagewidth     21.59cm
+	staffwidth    18.8cm
+
+	barlabelfont   Helvetica-Bold 18 box
+	composerfont   Times-Italic   11
+	gchordfont     Times-Italic   14
+	annotationfont Times-Italic   14
+	partsfont      Helvetica-Bold 16
+	subtitlefont   Times-Roman    14
+	textfont       Times-Roman    14
+	titlefont      Helvetica-Bold 18
+	vocalfont      Helvetica-Narrow-Bold 16
+	wordsfont      Helvetica-Narrow-Bold 12
+
+	landscape     0
+	lineskipfac   1.1
+	maxshrink     1.0
+	stretchlast   0
+	writehistory  0 # Show the history and other info fields

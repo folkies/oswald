@@ -1,0 +1,38 @@
+X: 10000
+T: the CALEDONIAN POCKET COMPANION (Volume 1)
+C: James Oswald .ed
+O: ca.1780
+B: James Oswald "The Caledonian Pocket Companion" Vol.1 (ca.1780)
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+K:
+%%center The
+%%center CALEDONIAN
+%%center POCKET COMPANION
+%%center In Six Volumes,containing
+%%center all the
+%%center Favourite Scotch Tunes with their
+%%center Variations for the German Flute
+%%center by
+%%center James Oswald
+%%center ------------
+%%center London Printed for the Author & sold at his Music Shop
+%%center in St Martin's Church Yard, of whom may be had just published
+%%center (list of other publications)
+
+% sep 1 1 500
+
+%%begintext align
+%% Note that the tune numbers are of the form VBPPN, where
+%% V is the volume number (1 or 2),
+%% B is the book(let) number (1-6)
+%% PP is the 2-digit page number, and
+%% N is the tune count on the page.
+%% Tunes that cross a page boundary are considered part of the first page's last tune,
+%% and aren't counted on the second page (or treated as "tune 0" if you prefer).
+%%endtext
+%%text: Handwritten at the top of the title page: A. Robertson.
+
+%%vskip 50	% fill up title page
+
+%%slurgraces 0
+%%graceslurs 0
